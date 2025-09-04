@@ -1,0 +1,15 @@
+# Core
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+
+# Plotting
+matplotlib
+seaborn
+
+# Notebook
+jupyter
+
+# Utils
+joblib
